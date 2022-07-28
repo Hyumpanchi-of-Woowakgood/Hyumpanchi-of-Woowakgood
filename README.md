@@ -46,3 +46,9 @@ https://github.com/ABER1047/Hyumpanchi-of-Woowakgood/tree/master/scripts
 
 4. 반복문을 빠져나온 순간에서의 좌푯값 (x2,y2)까지 선을 이어줌 (해당 선이 레이저)
 ```
+
+이외의 나머지 것들은 대부분 프로젝트 왁 (Project wak)에서 사용되었으니,
+
+해당 링크를 참고해주세요
+
+https://github.com/ABER1047/Project-wak
