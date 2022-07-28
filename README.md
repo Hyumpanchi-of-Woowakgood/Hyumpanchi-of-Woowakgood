@@ -27,6 +27,10 @@ https://youtu.be/G-lGRxXmPog
 
 ![preview_1](preview_1.gif)
 
+관련 알고리즘은 Script 폴더내의 이름이 twitch로 된 코드들을 확인해주세요
+
+https://github.com/ABER1047/Hyumpanchi-of-Woowakgood/tree/master/scripts
+
 #
 
 ### ▼ 레이저 (보스가 발사하던 레이저)
